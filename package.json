@@ -9,7 +9,7 @@
     "tailwindcss": "^3.2.7"
   },
   "devDependencies": {
-    "wasp": "^0.17.1",
+    "wasp": "^0.18.0",
     "typescript": "5.8.2",
     "vite": "^7.0.6",
     "@types/react": "^18.0.37",
